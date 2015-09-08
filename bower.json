@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "authors": [
+    "johnwonder <johnufida@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
