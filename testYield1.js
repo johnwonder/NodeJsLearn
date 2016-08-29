@@ -21,6 +21,7 @@ function* start(){
 console.log(start.constructor.name);
 
 var it = start();
+// console.log(it.current());
 console.log(it.next());//等待 start返回  
 console.log(it.next());//等待runGenerator返回
 console.log(it.next(333));//等待running返回
