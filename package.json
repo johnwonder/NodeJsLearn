@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies":{
 	"grunt":"^0.4.5",
-	"grunt-contrib-jshint":"^0.11.2"
+	"grunt-contrib-jshint":"^0.11.2",
+   "bluebird": "^2.9.8"
   },
   "devDependencies":{},
   "scripts": {
